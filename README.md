@@ -1,2 +1,2 @@
-# Eveready-Freight-Project
+# Freight-Project
 Automation for Freight
